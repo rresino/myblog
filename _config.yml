@@ -20,14 +20,13 @@
 
 site.author: Rubén Resino
 name: Rubén Resino
-title: Rubén Resino - Blog
-avatar: https://rresino.github.io/blog/images/avatar.jpg
+title: Rubén Resino - My Blog
+avatar: https://rresino.github.io/myblog/images/avatar.jpg
 
 #email: your-email@example.com
 description: Developer for pleasure and Tech Lead for money.
-baseurl: "" # the subpath of your site, e.g. /blog
-#baseurl: "https://rresino.github.io/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog" # the subpath of your site, e.g. /myblog
+url: "https://rresino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rresino
 github_username:  rresino
 
