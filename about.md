@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-# About me
-
-- 👋 Hi, I’m Rubén Resino @rresino 
+- 👋 Hi, I’m Rubén Resino @rresino
 - 👀 I’m interested in Tecnology, development, JVM, Scala, Java, Kubernetes, Big data, APIs ...
 - 🌱 I’m currently learning Software Development and paternity.
 - 💞️ I’m looking to collaborate on JVM, open source projects or how to help junior developers.
